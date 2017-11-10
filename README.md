@@ -7,6 +7,8 @@
 #### Back-End
 * [Java 9 Http2 Support](https://dzone.com/articles/an-introduction-to-http2-support-in-java-9?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
+* [Java 9: Cleaning up your default methods using private interface methods](http://www.deadcoderising.com/java-9-cleaning-up-your-default-methods-using-private-interface-methods/)
+
 #### Perf-Matters
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
