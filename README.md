@@ -9,6 +9,8 @@
 
 * [Java 9: Cleaning up your default methods using private interface methods](http://www.deadcoderising.com/java-9-cleaning-up-your-default-methods-using-private-interface-methods/)
 
+* [Lambda Expressions in Java 8](https://dzone.com/articles/lambda-expression-in-java8?edition=334862&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-10)
+
 #### Perf-Matters
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
