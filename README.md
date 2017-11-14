@@ -23,3 +23,5 @@
 
 #### Curiosity
 * [How Can Humans Stay Ahead of AI in the Workplace of the Future?](https://curiosity.com/topics/how-can-humans-stay-ahead-of-ai-in-the-workplace-of-the-future-curiosity?utm_campaign=daily-digest&utm_source=sendgrid&utm_medium=email)
+
+* [GIS Development](https://developers.arcgis.com/javascript/)
