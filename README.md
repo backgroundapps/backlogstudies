@@ -17,7 +17,8 @@
 #### Perf-Matters
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
-
+#### Machine-Learning
+* [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 ---
 
 #### Curiosity
