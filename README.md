@@ -11,6 +11,8 @@
 
 * [Lambda Expressions in Java 8](https://dzone.com/articles/lambda-expression-in-java8?edition=334862&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-10)
 
+https://dzone.com/articles/what-is-project-valhalla?edition=334866&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-13
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
