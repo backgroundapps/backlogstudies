@@ -21,6 +21,9 @@
 
 #### Machine-Learning
 * [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
+
+#### DEVOPS
+* 
 ---
 
 #### Curiosity
