@@ -13,6 +13,8 @@
 
 * [What Is Project Valhalla? ](https://dzone.com/articles/what-is-project-valhalla?edition=334866&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-13)
 
+* [An Introduction to Spring](https://dzone.com/articles/spring-basics?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
