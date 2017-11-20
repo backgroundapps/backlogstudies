@@ -15,6 +15,8 @@
 
 * [An Introduction to Spring](https://dzone.com/articles/spring-basics?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
 
+http://www.tothenew.com/blog/grails-3-migrating-from-filters-to-interceptors/?utm_campaign=Groovy%2BCalamari&utm_medium=email&utm_source=Groovy_Calamari104
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
