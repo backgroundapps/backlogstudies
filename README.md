@@ -17,6 +17,8 @@
 
 * [Grails 3 – Migrating from Filters to Interceptors](http://www.tothenew.com/blog/grails-3-migrating-from-filters-to-interceptors/?utm_campaign=Groovy%2BCalamari&utm_medium=email&utm_source=Groovy_Calamari104)
 
+https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf?utm_source=Microservices&utm_medium=email&utm_campaign=Refcard%202017-11-17
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
