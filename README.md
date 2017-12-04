@@ -4,6 +4,8 @@
 #### Front-End
 * [finessing-fecolormatrix](https://alistapart.com/article/finessing-fecolormatrix)
 
+* [PinTab - Free FrontEnd Resources](http://pintab.co/)
+
 #### Back-End
 * [Java 9 Http2 Support](https://dzone.com/articles/an-introduction-to-http2-support-in-java-9?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
