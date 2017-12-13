@@ -36,6 +36,8 @@
 
 #### DEVOPS
 * [How to Create Small Docker Images ](https://dzone.com/articles/how-to-create-small-docker-images?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
+
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 ---
 
 #### Curiosity
