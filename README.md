@@ -24,6 +24,7 @@
 * [Microservices in Java](https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf?utm_source=Microservices&utm_medium=email&utm_campaign=Refcard%202017-11-17)
 
 #### Data
+[Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
 #### Tools
 [VIM as IDE](https://spacevim.org/use-vim-as-a-java-ide/)
