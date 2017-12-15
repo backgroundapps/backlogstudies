@@ -26,6 +26,7 @@
 #### Data
 
 #### Tools
+[VIM as IDE](https://spacevim.org/use-vim-as-a-java-ide/)
 
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
