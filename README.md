@@ -23,6 +23,8 @@
 
 * [Microservices in Java](https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf?utm_source=Microservices&utm_medium=email&utm_campaign=Refcard%202017-11-17)
 
+* [How to Create an Immutable Class in Java ](https://dzone.com/articles/how-to-create-an-immutable-class-in-java?edition=342145&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-13)
+
 #### Data
 [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
