@@ -28,6 +28,8 @@
 #### Test
 [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
+[Testing Your Spring App for Thread Safety ](http://mailer.dzone.com/link.php?M=16075516&N=13388&L=99118&F=H)
+
 #### Data
 [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
