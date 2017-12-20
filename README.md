@@ -30,6 +30,8 @@
 
 [Testing Your Spring App for Thread Safety ](http://mailer.dzone.com/link.php?M=16075516&N=13388&L=99118&F=H)
 
+[Testing Without a Mock Framework ](https://dzone.com/articles/testing-without-a-mock-framework?fromrel=true)
+
 #### Data
 [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
