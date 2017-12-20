@@ -44,6 +44,8 @@
 #### Perf-Matters
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
+[Improving Java Performance ](https://dzone.com/articles/improving-java-performance?edition=343110&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-09)
+
 #### Machine-Learning
 * [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 
