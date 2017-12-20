@@ -26,6 +26,7 @@
 * [How to Create an Immutable Class in Java ](https://dzone.com/articles/how-to-create-an-immutable-class-in-java?edition=342145&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-13)
 
 #### Test
+[How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
 #### Data
 [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
