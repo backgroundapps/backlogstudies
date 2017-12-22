@@ -53,8 +53,10 @@
 * [How to Create Small Docker Images ](https://dzone.com/articles/how-to-create-small-docker-images?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
 
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
----
 
+#### Blockchain
+
+---
 #### Curiosity
 * [How Can Humans Stay Ahead of AI in the Workplace of the Future?](https://curiosity.com/topics/how-can-humans-stay-ahead-of-ai-in-the-workplace-of-the-future-curiosity?utm_campaign=daily-digest&utm_source=sendgrid&utm_medium=email)
 
