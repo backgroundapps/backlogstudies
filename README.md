@@ -54,6 +54,8 @@
 
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
+* [Building integrations for GitHub](https://developer.github.com/apps/building-integrations/)
+
 #### Blockchain
 
 ---
