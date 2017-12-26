@@ -26,14 +26,14 @@
 * [How to Create an Immutable Class in Java ](https://dzone.com/articles/how-to-create-an-immutable-class-in-java?edition=342145&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-13)
 
 #### Test
-[How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
+* [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
-[Testing Your Spring App for Thread Safety ](http://mailer.dzone.com/link.php?M=16075516&N=13388&L=99118&F=H)
+* [Testing Your Spring App for Thread Safety ](http://mailer.dzone.com/link.php?M=16075516&N=13388&L=99118&F=H)
 
-[Testing Without a Mock Framework ](https://dzone.com/articles/testing-without-a-mock-framework?fromrel=true)
+* [Testing Without a Mock Framework ](https://dzone.com/articles/testing-without-a-mock-framework?fromrel=true)
 
 #### Data
-[Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
+* [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
 #### Tools
 * [VIM as IDE](https://spacevim.org/use-vim-as-a-java-ide/)
@@ -46,7 +46,7 @@
 #### Perf-Matters
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
 
-[Improving Java Performance ](https://dzone.com/articles/improving-java-performance?edition=343110&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-09)
+* [Improving Java Performance ](https://dzone.com/articles/improving-java-performance?edition=343110&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-09)
 
 #### Machine-Learning
 * [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
