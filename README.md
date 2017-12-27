@@ -8,7 +8,7 @@
 
 * [React.js for Noobs ](https://dzone.com/articles/reactjs-for-noobs?edition=343091&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-02) - [Done](https://github.com/backgroundapps/react-hello-world)
 
-* [Learn React Fundamentals 🆓 and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
+* [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
 * [Java 9 Http2 Support](https://dzone.com/articles/an-introduction-to-http2-support-in-java-9?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
