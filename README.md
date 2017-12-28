@@ -61,7 +61,7 @@
 * [Building integrations for GitHub](https://developer.github.com/apps/building-integrations/)
 
 #### Blockchain
-
+* [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 ---
 #### Curiosity
 * [How Can Humans Stay Ahead of AI in the Workplace of the Future?](https://curiosity.com/topics/how-can-humans-stay-ahead-of-ai-in-the-workplace-of-the-future-curiosity?utm_campaign=daily-digest&utm_source=sendgrid&utm_medium=email)
