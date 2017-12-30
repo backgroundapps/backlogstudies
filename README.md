@@ -50,6 +50,8 @@
 
 * [Improving Java Performance ](https://dzone.com/articles/improving-java-performance?edition=343110&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-09)
 
+* [An Introduction to Quantum Computing](https://dzone.com/articles/an-introduction-to-quantum-computing-ankit-sharmas?edition=347140&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-28)
+
 #### Machine-Learning
 * [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 
