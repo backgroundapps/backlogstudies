@@ -39,6 +39,8 @@
 #### Data
 * [Graph-Powered Search: Neo4j & Elasticsearch](https://dzone.com/storage/assets/7390630-edits2-dzone-rc252-graphpoweredsearch-neo4j-elasti.pdf)
 
+* [Reactive Streams With Spring Data Cassandra](https://dzone.com/articles/reactive-streams-with-spring-data-cassandra?edition=345104&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202017-12-19)
+
 #### Tools
 * [VIM as IDE](https://spacevim.org/use-vim-as-a-java-ide/)
 
