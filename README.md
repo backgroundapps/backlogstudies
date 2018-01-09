@@ -50,6 +50,8 @@
 
 * [What is SAP HANA, express edition?](https://www.sap.com/developer/topics/sap-hana-express.html?campaigncode=CRM-XB17-DGE-SM03)
 
+* [Apache Kafka](https://dzone.com/storage/assets/7714451-dzone-rc254-apachekafka.pdf)
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
