@@ -35,6 +35,8 @@
 
 * [Benefits of REST APIs With HTTP 2](https://dzone.com/articles/benefits-of-rest-apis-with-http2?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-01-123)
 
+* [All About Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/)
+
 #### Test
 * [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
