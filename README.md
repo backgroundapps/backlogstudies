@@ -11,6 +11,8 @@
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
+* [Java Memory Management ](https://dzone.com/articles/java-memory-management?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-01-123)
+
 * [9 Things Java Programmers Should Learn in 2018 ](https://dzone.com/articles/5-things-java-programmer-should-learn-in-2018?edition=355109&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-01-19)
 
 * [Java 9 Http2 Support](https://dzone.com/articles/an-introduction-to-http2-support-in-java-9?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
