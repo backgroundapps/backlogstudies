@@ -19,6 +19,8 @@
 
 * [Java 9: Cleaning up your default methods using private interface methods](http://www.deadcoderising.com/java-9-cleaning-up-your-default-methods-using-private-interface-methods/)
 
+* [Analyze Streaming Data With Nashorn in Java 9] (https://dzone.com/articles/build-clis-with-nashorn-in-java-9?edition=343104&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-07)
+
 * [Lambda Expressions in Java 8](https://dzone.com/articles/lambda-expression-in-java8?edition=334862&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-10)
 
 * [What Is Project Valhalla? ](https://dzone.com/articles/what-is-project-valhalla?edition=334866&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-13)
