@@ -1,5 +1,5 @@
 # Backlog Studies
-> Interesting links [Inspired by You First PR](http://yourfirstpr.github.io/)
+> Interesting links
 
 #### Front-End
 * [finessing-fecolormatrix](https://alistapart.com/article/finessing-fecolormatrix)
