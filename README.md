@@ -62,6 +62,8 @@
 
 * [Apache Kafka](https://dzone.com/storage/assets/7714451-dzone-rc254-apachekafka.pdf)
 
+* [How to Configure JMeter Logging](https://dzone.com/articles/how-to-configure-jmeter-logging?edition=342145&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-13)
+
 #### Android
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
