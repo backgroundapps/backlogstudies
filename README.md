@@ -11,6 +11,8 @@
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
+* [Core Java Concurrency](https://dzone.com/refcardz/core-java-concurrency) - [Refcard #061]
+
 * [Java Memory Management ](https://dzone.com/articles/java-memory-management?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-01-123)
 
 * [9 Things Java Programmers Should Learn in 2018 ](https://dzone.com/articles/5-things-java-programmer-should-learn-in-2018?edition=355109&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-01-19)
