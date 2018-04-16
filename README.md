@@ -45,6 +45,8 @@
 
 * [All About Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/)
 
+* [What Future Java Releases Mean for Legacy Desktop Apps](https://dzone.com/articles/what-the-future-java-releases-will-mean-for-legacy?edition=371237&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-04-10)
+
 #### Test
 * [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
