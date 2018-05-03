@@ -11,6 +11,8 @@
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
+* [Microservices: The Future or a Fleeting Episode?]()
+
 * [JWTs With Spring Boot and Java 9](https://dzone.com/articles/jwts-with-spring-boot-and-java-9?edition=376199&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-25)
 
 * [Core Java Concurrency](https://dzone.com/refcardz/core-java-concurrency) - [Refcard #061]
