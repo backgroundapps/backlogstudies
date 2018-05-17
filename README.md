@@ -11,6 +11,8 @@
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
+* [Modern Java EE Design Patterns](https://dzone.com/storage/assets/4855153-modern-java-ee-design-patterns-red-hat.pdf)
+
 * [Microservices: The Future or a Fleeting Episode?]()
 
 * [JWTs With Spring Boot and Java 9](https://dzone.com/articles/jwts-with-spring-boot-and-java-9?edition=376199&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-25)
