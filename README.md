@@ -11,6 +11,8 @@
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
 #### Back-End
+* [DZone Research: Concerns With Java](https://github.com/backgroundapps/backlogstudies/issues/82)
+
 * [Converting Java Maps to Lists](https://dzone.com/articles/converting-java-maps-to-lists?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-05-183)
 
 * [Modern Java EE Design Patterns](https://dzone.com/storage/assets/4855153-modern-java-ee-design-patterns-red-hat.pdf)
