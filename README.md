@@ -100,6 +100,9 @@
 
 * [Building integrations for GitHub](https://developer.github.com/apps/building-integrations/)
 
+#### Design
+* [Grid Layout with Motion Hover Effect and Content Preview](https://tympanus.net/Development/GridLayoutMotion/)
+
 #### Blockchain
 * [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 ---
