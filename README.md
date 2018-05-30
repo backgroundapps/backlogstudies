@@ -10,6 +10,8 @@
 
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
 
+* [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
+
 #### Back-End
 * [DZone Research: Concerns With Java](https://github.com/backgroundapps/backlogstudies/issues/82)
 
