@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [No Polyglotting: First Experience with GWT Boot](https://dzone.com/articles/first-experience-with-gwt-boot?edition=379191&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-25)
+
 * [DZone Research: Concerns With Java](https://github.com/backgroundapps/backlogstudies/issues/82)
 
 * [Converting Java Maps to Lists](https://dzone.com/articles/converting-java-maps-to-lists?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-05-183)
