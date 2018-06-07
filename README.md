@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Shebang Coming to Java?](https://dzone.com/articles/shebang-coming-to-java?edition=379224&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-06-04)
+
 * [ Java Optionals for More Expressive Code](https://dzone.com/articles/java-optionals-for-more-expressive-code?edition=379230&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-06-05)
 
 * [No Polyglotting: First Experience with GWT Boot](https://dzone.com/articles/first-experience-with-gwt-boot?edition=379191&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-25)
