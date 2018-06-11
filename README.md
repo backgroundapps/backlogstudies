@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [What's the Deal with Data in Microservices Applications](https://dzone.com/storage/assets/9067592-nuodb-webinar-confirmation-2018-05-23.pdf)
+
 * [AtomicReference: A (Sometimes Easier) Alternative to Synchronized Blocks](https://dzone.com/articles/atomicreference-a-sometimes-easier-alternative-to?edition=376294&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-14)
 
 * [Shebang Coming to Java?](https://dzone.com/articles/shebang-coming-to-java?edition=379224&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-06-04)
