@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Solid Principles: Interface Segregation Principle](https://dzone.com/articles/solid-principles-interface-segregation-principle?edition=376255&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-05-08)
+
 * [What's the Deal with Data in Microservices Applications](https://dzone.com/storage/assets/9067592-nuodb-webinar-confirmation-2018-05-23.pdf)
 
 * [AtomicReference: A (Sometimes Easier) Alternative to Synchronized Blocks](https://dzone.com/articles/atomicreference-a-sometimes-easier-alternative-to?edition=376294&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-14)
