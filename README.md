@@ -72,6 +72,8 @@
 * [What Future Java Releases Mean for Legacy Desktop Apps](https://dzone.com/articles/what-the-future-java-releases-will-mean-for-legacy?edition=371237&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-04-10)
 
 #### Test
+* [ Bitcoin and JUnit](https://dzone.com/articles/bitcoin-and-junit?edition=377213&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-05)
+
 * [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
 
 * [Testing Your Spring App for Thread Safety ](http://mailer.dzone.com/link.php?M=16075516&N=13388&L=99118&F=H)
