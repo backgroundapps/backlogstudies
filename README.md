@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [ A Multi-Gateway Payment Processing Library for Java](https://dzone.com/articles/multi-gateway-payment-processing-library-for-java?edition=377213&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-05)
+
 * [Solid Principles: Interface Segregation Principle](https://dzone.com/articles/solid-principles-interface-segregation-principle?edition=376255&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-05-08)
 
 * [What's the Deal with Data in Microservices Applications](https://dzone.com/storage/assets/9067592-nuodb-webinar-confirmation-2018-05-23.pdf)
