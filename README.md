@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [New Methods on Java Strings With JDK 11](https://dzone.com/articles/new-methods-on-java-strings-with-jdk-11?edition=377214&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-06)
+
 * [ A Multi-Gateway Payment Processing Library for Java](https://dzone.com/articles/multi-gateway-payment-processing-library-for-java?edition=377213&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-05)
 
 * [Solid Principles: Interface Segregation Principle](https://dzone.com/articles/solid-principles-interface-segregation-principle?edition=376255&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-05-08)
