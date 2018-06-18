@@ -125,6 +125,8 @@
 
 #### Blockchain
 * [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
+
+* [A Simple Blockchain in Java](https://dzone.com/articles/a-simplest-block-chain-in-java?edition=382197&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-06-15)
 ---
 #### Curiosity
 * [How Can Humans Stay Ahead of AI in the Workplace of the Future?](https://curiosity.com/topics/how-can-humans-stay-ahead-of-ai-in-the-workplace-of-the-future-curiosity?utm_campaign=daily-digest&utm_source=sendgrid&utm_medium=email)
