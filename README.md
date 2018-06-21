@@ -123,6 +123,9 @@
 #### Design
 * [Grid Layout with Motion Hover Effect and Content Preview](https://tympanus.net/Development/GridLayoutMotion/)
 
+#### Open Source
+* [Open Source: GUIDE TO DEMOCRATIZING DEVELOPMENT](https://dzone.com/storage/assets/9137231-dzone2018-researchguide-opensource.pdf#utm_source=OpenSource&utm_medium=email&utm_campaign=ZoneLaunch%202018-06-18)
+
 #### Blockchain
 * [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 
