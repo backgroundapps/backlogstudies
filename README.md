@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Grails on Travis Basics](http://guides.grails.org/grails-on-travis-basics/guide/index.html)
+
 * [Vert.X Guide for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
 
 * [New Methods on Java Strings With JDK 11](https://dzone.com/articles/new-methods-on-java-strings-with-jdk-11?edition=377214&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-06)
