@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Is Boilerplate Code Really so Bad?](https://www.infoq.com/presentations/java-kotlin-boilerplate)
+
 * [Grails on Travis Basics](http://guides.grails.org/grails-on-travis-basics/guide/index.html)
 
 * [Vert.X Guide for Java Developers](https://vertx.io/docs/guide-for-java-devs/)
