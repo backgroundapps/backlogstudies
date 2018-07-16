@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Microservices: Breaking Down the Monolith](https://dzone.com/guides/microservices-breaking-down-the-monolith)
+
 * [Is Boilerplate Code Really so Bad?](https://www.infoq.com/presentations/java-kotlin-boilerplate)
 
 * [Grails on Travis Basics](http://guides.grails.org/grails-on-travis-basics/guide/index.html)
