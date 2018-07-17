@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes?edition=386199&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-07-12)
+
 * [Microservices: Breaking Down the Monolith](https://dzone.com/guides/microservices-breaking-down-the-monolith)
 
 * [Is Boilerplate Code Really so Bad?](https://www.infoq.com/presentations/java-kotlin-boilerplate)
