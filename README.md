@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Consul and Micronaut - Microservices service discovery](http://guides.micronaut.io/micronaut-microservices-services-discover-consul/guide/index.html)
+
 * [Apache Mesos and Kafka Streams for Highly Scalable Microservices](https://dzone.com/articles/apache-mesos-and-kafka-streams-for-highly-scalable?edition=385221&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=microservices%202018-07-11)
 
 * [Pattern: Decompose by business capability Context](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
