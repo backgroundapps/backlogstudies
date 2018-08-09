@@ -91,6 +91,9 @@
 
 * [What Future Java Releases Mean for Legacy Desktop Apps](https://dzone.com/articles/what-the-future-java-releases-will-mean-for-legacy?edition=371237&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-04-10)
 
+#### Revision Control (GIT, strategy and concepts)
+* [Learning Git Branching](https://learngitbranching.js.org/ )
+
 #### Test
 * [ Bitcoin and JUnit](https://dzone.com/articles/bitcoin-and-junit?edition=377213&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-05)
 
