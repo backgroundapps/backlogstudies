@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [What to Look for in Java 9 Code](https://blog.jetbrains.com/upsource/2018/08/08/what-to-look-for-in-java-9-code/)
+
 * [Consul and Micronaut - Microservices service discovery](http://guides.micronaut.io/micronaut-microservices-services-discover-consul/guide/index.html)
 
 * [Apache Mesos and Kafka Streams for Highly Scalable Microservices](https://dzone.com/articles/apache-mesos-and-kafka-streams-for-highly-scalable?edition=385221&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=microservices%202018-07-11)
