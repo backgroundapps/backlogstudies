@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [JDK 12: Merging Collectors and the Challenge of Naming](https://dzone.com/articles/jdk-12-merging-collectors-and-the-challenge-of-nam?edition=385370&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=java%202018-08-14)
+
 * [What to Look for in Java 9 Code](https://blog.jetbrains.com/upsource/2018/08/08/what-to-look-for-in-java-9-code/)
 
 * [Consul and Micronaut - Microservices service discovery](http://guides.micronaut.io/micronaut-microservices-services-discover-consul/guide/index.html)
