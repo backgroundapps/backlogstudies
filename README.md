@@ -142,6 +142,8 @@
 #### Machine-Learning
 * [An Introduction to Machine Learning in Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
 
+* [ Amazon Machine Learnign in Action](https://pages.awscloud.com/rs/112-TZM-766/images/Amazon_MachineLearningAction_PT.pdf)
+
 #### DEVOPS
 * [How to Create Small Docker Images ](https://dzone.com/articles/how-to-create-small-docker-images?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
 
