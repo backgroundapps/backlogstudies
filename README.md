@@ -13,6 +13,8 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [Decorator Design Pattern in Java](https://dzone.com/articles/decorator-design-pattern-in-java?edition=387230&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-26)
+
 * [ Antipattern of the Month: Unresolved Proxy](https://dzone.com/articles/antipattern-of-the-month-unresolved-proxy-1?edition=377214&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-06)
 
 * [Spring best Practices](https://www.e4developer.com/2018/08/06/spring-boot-best-practices/)
