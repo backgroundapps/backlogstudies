@@ -13,7 +13,7 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
-* [Infor about kubernates](https://dzone.com/articles/dont-install-kubernetes?edition=371217&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-05)
+* [Infos about kubernates](https://dzone.com/articles/dont-install-kubernetes?edition=371217&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-05)
 
 * [Decorator Design Pattern in Java](https://dzone.com/articles/decorator-design-pattern-in-java?edition=387230&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-26)
 
