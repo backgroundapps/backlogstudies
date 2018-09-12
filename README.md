@@ -109,6 +109,8 @@
 * [Learning Git Branching](https://learngitbranching.js.org/ )
 
 #### Test
+* [Testing Microservices](https://dzone.com/storage/assets/9281890-whitepaper-testing-microservices.pdf)
+
 * [ Bitcoin and JUnit](https://dzone.com/articles/bitcoin-and-junit?edition=377213&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-05)
 
 * [How to Write Great Unit Tests With JUnit: Major Features of JUnit 4 in Test module](https://dzone.com/articles/how-to-write-great-unit-tests-with-junit-examples-1?fromrel=true)
