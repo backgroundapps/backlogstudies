@@ -139,6 +139,8 @@
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
 #### Perf-Matters
+* [GraalVM Stream performance](https://medium.com/graalvm/stream-api-performance-with-graalvm-be6cfe7fbb52)
+
 * [Page Lifecycle API](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
 
 * [11 Simple Java Performance Tuning Tips ](https://dzone.com/articles/11-simple-java-performance-tuning-tips?edition=334840&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-11-08)
