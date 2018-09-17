@@ -139,6 +139,8 @@
 * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 
 #### Perf-Matters
+* [Java Volatile Tasks](http://tutorials.jenkov.com/java-concurrency/volatile.html)
+
 * [GraalVM Stream performance](https://medium.com/graalvm/stream-api-performance-with-graalvm-be6cfe7fbb52)
 
 * [Page Lifecycle API](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
