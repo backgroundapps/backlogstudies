@@ -2,6 +2,8 @@
 > Interesting links
 
 #### Front-End
+* [ 5 More Hidden Secrets in Java](https://dzone.com/articles/5-more-hidden-secrets-in-java?edition=369206&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-03-28)
+
 * [finessing-fecolormatrix](https://alistapart.com/article/finessing-fecolormatrix)
 
 * [PinTab - Free FrontEnd Resources](http://pintab.co/)
