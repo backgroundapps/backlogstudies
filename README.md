@@ -158,6 +158,9 @@
 
 * [ Amazon Machine Learnign in Action](https://pages.awscloud.com/rs/112-TZM-766/images/Amazon_MachineLearningAction_PT.pdf)
 
+#### Security
+* [ Stop Using JWTs as Session Tokens](https://dzone.com/articles/stop-using-jwts-as-session-tokens?edition=376199&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-25)
+
 #### DEVOPS
 * [How to Create Small Docker Images ](https://dzone.com/articles/how-to-create-small-docker-images?edition=334876&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-15)
 
