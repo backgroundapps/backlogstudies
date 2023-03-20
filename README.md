@@ -13,6 +13,7 @@
 * [Criando um Codepen simples em poucas linhas](https://willianjusten.com.br/criando-um-codepen-simples-em-poucas-linhas/)
 
 #### Back-End
+* [100 Java Mistakes And How To Avoid Them](https://livebook.manning.com/book/100-java-mistakes-and-how-to-avoid-them/chapter-4/v-1/125)
 * [ 5 More Hidden Secrets in Java](https://dzone.com/articles/5-more-hidden-secrets-in-java?edition=369206&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-03-28)
 
 * [Infos about kubernates](https://dzone.com/articles/dont-install-kubernetes?edition=371217&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-04-05)
