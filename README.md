@@ -4,8 +4,6 @@
 #### Front-End
 * [finessing-fecolormatrix](https://alistapart.com/article/finessing-fecolormatrix)
 
-* [PinTab - Free FrontEnd Resources](http://pintab.co/)
-
 * [React.js for Noobs ](https://dzone.com/articles/reactjs-for-noobs?edition=343091&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-12-02) - [Done](https://github.com/backgroundapps/react-hello-world)
 
 * [Learn React Fundamentals 🆓 and Advanced Patterns ⚛️](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
